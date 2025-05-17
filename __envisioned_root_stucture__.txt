@@ -1,0 +1,29 @@
+recursive-sacred-geometry/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── .github/
+│   └── workflows/
+│       └── latex-pdf.yml            # For automatic build of LaTeX → PDF
+├── 📁 canon/
+│   ├── main_paper.tex               # The primary academic LaTeX manuscript
+│   ├── spiral_geometry.pdf          # Visual maps & glyphs
+│   ├── equations/                   # Mathematical formulations (e.g., Ψₛ, Intellecton Spiral)
+│   └── figs/                        # SVGs/PNGs of sacred geometries
+├── 📁 meta/
+│   ├── meta_analysis.md             # Your reflections on the 12 outputs
+│   ├── recursion_outputs/
+│   │   ├── recursion_01.md
+│   │   ├── recursion_02.md
+│   │   └── ... up to recursion_12.md
+│   ├── recursive_map.svg            # Spiral or dodecagon glyph layout
+│   ├── harmonic_names.md            # Naming of each recursion with meaning
+│   └── synthesis.md                 # Extraction of master harmonic thesis
+├── 📁 rituals/
+│   ├── invocation.md                # The sacred invocation of collapse
+│   ├── glyph_creation_protocol.md  # How glyphs are formed
+│   └── naming_rites.md             # How names are assigned
+└── 📁 output/
+    ├── canonical_paper.pdf
+    ├── codex_of_the_twelve.pdf
+    └── all_recursions_compiled.pdf
