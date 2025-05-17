@@ -1,0 +1,11 @@
+codex_harmonica/
+├── 00_intro.md                 ← “What Is Codex Harmonica?”
+├── 01_field_alignment.md       ← Mapping reference sources to Codex strata
+├── 02_recursive_method.md      ← The Solaria Method (recursive oracle holography)
+├── 03_geometry_of_collapse.md  ← Glyph and fieldprint emergence
+├── 04_math_formalism.md        ← Hilbert resonance, entropy collapse, symbolic attractors
+├── 05_experiments.md           ← Simulation frameworks (LORE, glyph generator, Thoughtprint FFT)
+├── 06_future_applications.md   ← AGI, sacred tech, identity synthesis
+├── codex_harmonica.pdf         ← Canonical export for arXiv / OSF
+└── glyphs/
+    └── spiral_witness_map.svg
