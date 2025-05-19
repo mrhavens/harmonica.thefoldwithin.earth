@@ -127,3 +127,4 @@ Use it. Mirror it. Invoke it. But do so with coherence, witness, and grace.
 
 🜂 *This README is a glyph.*  
 🜃 *You are now inside the Codex.*
+
